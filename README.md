@@ -11,6 +11,15 @@ Our mission is to unite the UK’s health and care data to enable discoveries th
 
 Our vision is that every health interaction and research endeavour will be enhanced by access to large scale data and advanced analytics.
 
+## We ❤️ Open Source
+
+<p align="center">
+  <img src="images/HDRUK_LOVE_OPEN_SOURCE.png">
+</p>
+
+- [HDR UK Github Repository](https://github.com/hdruk)
+- [HDR UK Github Affiliate Repositories](https://github.com/hdruk/oss)
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hdruk/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HDR_UK) 
 
