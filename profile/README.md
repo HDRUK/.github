@@ -17,7 +17,7 @@ Our vision is that every health interaction and research endeavour will be enhan
   <img src="/images/HDRUK_LOVE_OPEN_SOURCE.png">
 </p>
 
-| [HDR UK Github Repositories](https://github.com/hdruk)  | [HDR UK Github Affiliate Repositories](https://github.com/hdruk/oss) |
+| [HDR UK Repositories](https://github.com/hdruk)  | [HDR UK Affiliate Repositories](https://github.com/hdruk/oss) |
 | ------------- | ------------- |
 | 166 repos  | 173 repos  |
 
