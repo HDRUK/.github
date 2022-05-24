@@ -14,7 +14,7 @@ Our vision is that every health interaction and research endeavour will be enhan
 ## We ❤️ Open Source
 
 <p align="center">
-  <img src="../images/HDRUK_LOVE_OPEN_SOURCE.png">
+  <img src="/images/HDRUK_LOVE_OPEN_SOURCE.png">
 </p>
 
 - [HDR UK Github Repository](https://github.com/hdruk)
