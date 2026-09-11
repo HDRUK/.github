@@ -11,17 +11,13 @@ Our mission is to unite the UK’s health and care data to enable discoveries th
 
 Our vision is that every health interaction and research endeavour will be enhanced by access to large scale data and advanced analytics.
 
-## We ❤️ Open Source
-
-<p align="center">
-  <img src="/images/HDRUK_LOVE_OPEN_SOURCE.png">
-</p>
-
-| [HDR UK Repositories](https://github.com/hdruk)  | [HDR UK Affiliate Repositories](https://github.com/hdruk/oss) |
-| ------------- | ------------- |
-| 166 repos  | 173 repos  |
-
 ## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hdruk/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hdrukofficial/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZRFITc9t71qrPe5uuM9-gw)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hdr_uk)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hdruk/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HDR_UK) 
 
 # 💻 Tech Stack
